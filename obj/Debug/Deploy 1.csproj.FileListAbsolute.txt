@@ -1,0 +1,8 @@
+C:\Users\madih\source\repos\Deploy 1\bin\Debug\Deploy 1.exe
+C:\Users\madih\source\repos\Deploy 1\bin\Debug\Deploy 1.pdb
+C:\Users\madih\source\repos\Deploy 1\obj\Debug\Deploy 1.csproj.AssemblyReference.cache
+C:\Users\madih\source\repos\Deploy 1\obj\Debug\Deploy_1.Properties.Resources.resources
+C:\Users\madih\source\repos\Deploy 1\obj\Debug\Deploy 1.csproj.GenerateResource.cache
+C:\Users\madih\source\repos\Deploy 1\obj\Debug\Deploy 1.csproj.CoreCompileInputs.cache
+C:\Users\madih\source\repos\Deploy 1\obj\Debug\Deploy 1.exe
+C:\Users\madih\source\repos\Deploy 1\obj\Debug\Deploy 1.pdb
